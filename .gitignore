@@ -1,0 +1,18 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Markdown Editor/*
+!/Markdown Editor/task/
+/Markdown Editor/task/*
+!/Markdown Editor/task/editor.py
+!/Markdown Editor/task/input.txt
+!/Markdown Editor/task/output.md
